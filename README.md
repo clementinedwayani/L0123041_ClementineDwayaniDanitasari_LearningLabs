@@ -26,7 +26,7 @@ KamaWatch/
 ## Instalasi
 Untuk menjalankan proyek ini, Anda hanya perlu menyalin file berikut ke direktori lokal Anda. 
 1. **Clone repository** atau **download ZIP**
-    [(https://github.com/clementinedwayani)](https://github.com/clementinedwayani/L0123041_ClementineDwayaniDanitasari.git)
+    [([https://github.com/clementinedwayani](https://github.com/clementinedwayani/L0123041_ClementineDwayaniDanitasari_LearningLabs.git))]
 2. Buka file HTML di browser Anda untuk melihat aplikasi
 
 ## Teknologi yang Digunakan
